@@ -1,7 +1,7 @@
 # Sudoku Master — privacy policy
 
 The published privacy policy for the **Sudoku Master** iOS app, served at
-<https://prochynko.github.io/SudokuMasterPrivacy/>.
+<https://prochynko246.github.io/SudokuMasterPrivacy/>.
 
 This repository is public only because App Review has to be able to open that
 address without signing in. It holds the policy and nothing else — the app's

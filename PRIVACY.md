@@ -1,6 +1,6 @@
 # Privacy Policy — Sudoku Master
 
-**Last updated: 13 August 2026**
+**Last updated: 30 September 2026**
 
 Sudoku Master does not collect, store, or transmit any personal data.
 
@@ -22,8 +22,8 @@ None of this is readable by the developer.
 
 ## iCloud
 
-If you are signed in to iCloud, your statistics and saved games sync between your
-own devices using Apple's iCloud key-value storage. This data lives in **your**
+If you are signed in to iCloud, your statistics (including your Journey progress) and saved games sync between
+your own devices using Apple's iCloud key-value storage. This data lives in **your**
 iCloud account. The developer cannot access it and receives no copy of it.
 
 You can stop this at any time by turning iCloud off for Sudoku Master in the
@@ -52,6 +52,12 @@ not stored on your device and is not synced.
 The optional daily challenge reminder is a **local** notification, scheduled on
 your device. There is no push server and nothing about you is sent anywhere. You
 can turn it off in the app or in the system Settings.
+
+## Widget
+
+The home-screen widget shows your daily streak and whether you have played today's
+challenge. The app hands it that information through a container on your device that
+only the app and its widget can read. None of it leaves the device.
 
 ## Sharing a result
 
@@ -90,7 +96,7 @@ Questions about privacy: **mprochadzka@gmail.com**
 
 # Zásady ochrany osobných údajov — Sudoku Master
 
-**Naposledy upravené: 13. augusta 2026**
+**Naposledy upravené: 30. septembra 2026**
 
 Sudoku Master nezbiera, neukladá ani neposiela žiadne osobné údaje.
 
@@ -111,8 +117,8 @@ Nič z toho nie je pre vývojára čitateľné.
 
 ## iCloud
 
-Ak si prihlásený v iCloude, štatistiky a uložené hry sa synchronizujú medzi tvojimi
-zariadeniami cez iCloud od Apple. Tieto dáta žijú v **tvojom** iCloud účte. Vývojár
+Ak si prihlásený v iCloude, štatistiky (vrátane postupu vo Výprave) a uložené hry sa synchronizujú
+medzi tvojimi zariadeniami cez iCloud od Apple. Tieto dáta žijú v **tvojom** iCloud účte. Vývojár
 sa k nim nedostane a nedostáva ich kópiu.
 
 Kedykoľvek to môžeš vypnúť v systémových Nastaveniach pre Sudoku Master.
@@ -140,6 +146,12 @@ zariadení a nesynchronizuje sa.
 Nepovinná pripomienka dennej výzvy je **lokálne** upozornenie naplánované na tvojom
 zariadení. Neexistuje žiadny push server a nič o tebe sa nikam neposiela. Vypnúť sa
 dá v appke aj v systémových Nastaveniach.
+
+## Widget
+
+Widget na domovskej obrazovke ukazuje tvoju dennú sériu a to, či si už dnes hral
+dennú výzvu. Appka mu tieto informácie odovzdáva cez úložisko na tvojom zariadení,
+ktoré vidí iba appka a jej widget. Nič z toho zariadenie neopúšťa.
 
 ## Zdieľanie výsledku
 
